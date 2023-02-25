@@ -1,0 +1,7 @@
+package first;
+
+public class bio {
+	public static void main(String[] args) {
+        System.out.println("Hello, World! /n hi"); 
+    }
+}

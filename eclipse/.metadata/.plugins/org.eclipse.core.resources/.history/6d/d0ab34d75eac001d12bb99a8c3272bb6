@@ -1,0 +1,9 @@
+package first;
+
+public class bio {
+	public static void main(String[] args) {
+        System.out.println("My name is Ayush Kumar");
+        System.out.println("My name is Ayush Kumar"); 
+
+    }
+}
